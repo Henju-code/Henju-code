@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning Typescript and React-Native
 - 💞️ I’m looking to collaborate on interesting react-native libs
-- 📫 How to reach me luhenwow@gmail.com 
+- 📫 How to reach me henjucode@gmail.com 
 
 <!---
 Henju-code/Henju-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
