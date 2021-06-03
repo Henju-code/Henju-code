@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luis Henrique
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning Typescript and React-Native
-- 💞️ I’m looking to collaborate on interesting react-native libs
+- 💞️ I’m looking to collaborate on interesting react-native projects
 - 📫 How to reach me henjucode@gmail.com 
 
 <!---
